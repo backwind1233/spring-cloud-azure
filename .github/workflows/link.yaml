@@ -1,6 +1,6 @@
 name: Links
 
-on: [push, pull]
+on: [push, pull_request]
 
 jobs:
   linkChecker:
